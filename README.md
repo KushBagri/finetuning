@@ -1,1 +1,1 @@
-chore
+The purpose of this project is to fine tune an Open Source LLM to be snarky & sarcastic.
